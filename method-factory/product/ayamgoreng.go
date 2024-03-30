@@ -2,6 +2,7 @@ package product
 
 import "fmt"
 
+// salah satu implementasi dari interface makanan
 type AyamGoreng struct {
 }
 
